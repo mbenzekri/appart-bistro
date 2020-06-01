@@ -3,14 +3,15 @@
 ------------
 
 ## Menu midi 
+### Entrées
 - tomates mozza
 - harengs pomme à l'huile 
 
-
+### Plats
 - Suprème de poulet 
 - Boeuf Bourgignon
 
-
+### Desserts
 - Salade de fruits
 - Ile flottante
 
