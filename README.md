@@ -1,7 +1,7 @@
-![Appart Bistro](appart-visit-card.png "Appart bistro") 
+![Appart Bistro](appart-visit-card.png "Appart bistro" =250x250) 
+------------
 
 ## Menu midi 
-------------
 - tomates mozza
 - harengs pomme à l'huile 
 
@@ -15,7 +15,6 @@
 **Entrée  + plat + dessert: 18€**
 
 ## La Carte
--------------
 
 ### Entrées
 - Assiette de saumon fumé et toast
@@ -34,5 +33,6 @@
 - Tarte au pomme **6€**
 - Ile flottante **6€**
 
+-------------
 
 
