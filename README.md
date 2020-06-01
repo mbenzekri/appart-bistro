@@ -45,7 +45,7 @@
   <span>
     <img src="appart-visit-card.png" alt="drawing" width="200"/>
   </span>
-  <span style="float-right">
+  <span style="float:right">
     Suivez-nous sur : <a href="https://www.facebook.com/pg/lappart.vanves"><img src="fb_icon_325x325.png" width="64"></a>
     Trouver nous sur : <a href="https://goo.gl/maps/dQ14azTkhz1ixXj96"><img src="google-maps.png" width="64"></a>
   </span>
