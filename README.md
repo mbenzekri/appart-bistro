@@ -43,7 +43,7 @@
 -------------
 <div>
   <span>
-    Suivez-nous sur : <a href="https://www.facebook.com/pg/lappart.vanves"><img src="fb_icon_325x325.png" width="64"></a>
+    Suivez-nous sur : <a href="https://www.facebook.com/pg/lappart.vanves"><img src="fb_icon_325x325.png" width="64"></a><br>
     Trouver nous sur : <a href="https://goo.gl/maps/dQ14azTkhz1ixXj96"><img src="google-maps.png" width="64"></a>
   </span>
   <span>
