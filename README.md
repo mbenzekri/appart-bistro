@@ -43,7 +43,7 @@
 -------------
 <div>
   <span>
-    <img src="appart-visit-card.png" alt="drawing" width="100"/>
+    <img src="appart-visit-card.png" alt="drawing" width="200"/>
   </span>
   <span>
     Suivez-nous sur : <a href="https://www.facebook.com/pg/lappart.vanves"><img src="fb_icon_325x325.png" width="64"></a><br>
