@@ -43,11 +43,11 @@
 -------------
 <div>
   <span>
-    <img src="appart-visit-card.png" alt="drawing" width="600"/>
+    <img src="appart-visit-card.png" alt="drawing" width="100"/>
   </span>
   <span>
-      **Suivez-nous sur : [<img src="fb_icon_325x325.png"  width="64">](https://www.facebook.com/pg/lappart.vanves)**
-      **Trouver nous sur : [<img src="google-maps.png"   width="64">](https://goo.gl/maps/dQ14azTkhz1ixXj96)**
+    Suivez-nous sur : <a href="https://www.facebook.com/pg/lappart.vanves"><img src="fb_icon_325x325.png" width="64"></a><br>
+    Trouver nous sur : <a href="https://goo.gl/maps/dQ14azTkhz1ixXj96"><img src="google-maps.png" width="64"></a><br>
   </span>
  </div>
 
