@@ -15,6 +15,8 @@
 **Entrée  + plat ou  plat dessert : 15€**
 **Entrée  + plat + dessert: 18€**
 
+-------------
+
 ## La Carte
 
 ### Entrées
