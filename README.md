@@ -43,4 +43,6 @@
 
 -------------
 
-[<img src="http://www.google.com.au/images/nav_logo7.png">](http://google.com.au/)
+[<img src="fb_icon_325x325.png">](https://www.facebook.com/pg/lappart.vanves)
+
+
