@@ -43,6 +43,7 @@
 
 -------------
 
-[<img src="fb_icon_325x325.png">](https://www.facebook.com/pg/lappart.vanves)
+Suivez-nous sur [<img src="fb_icon_325x325.png"  width="64">](https://www.facebook.com/pg/lappart.vanves)
+Carte : [<img src="google-maps.png"   width="64">](https://goo.gl/maps/dQ14azTkhz1ixXj96)
 
 
