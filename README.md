@@ -41,9 +41,14 @@
 - Ile flottante **6€**
 
 -------------
-
-**Suivez-nous sur : [<img src="fb_icon_325x325.png"  width="64">](https://www.facebook.com/pg/lappart.vanves)**
-
-**Trouver nous sur : [<img src="google-maps.png"   width="64">](https://goo.gl/maps/dQ14azTkhz1ixXj96)**
+<div>
+  <span>
+    <img src="appart-visit-card.png" alt="drawing" width="600"/>
+  </span>
+  <span>
+      **Suivez-nous sur : [<img src="fb_icon_325x325.png"  width="64">](https://www.facebook.com/pg/lappart.vanves)**
+      **Trouver nous sur : [<img src="google-maps.png"   width="64">](https://goo.gl/maps/dQ14azTkhz1ixXj96)**
+  </span>
+ </div>
 
 
