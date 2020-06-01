@@ -1,6 +1,5 @@
-<img src="appart-visit-card.png" alt="drawing" width="200"/>
+<img src="appart.png" alt="drawing" width="600"/>
 
-------------
 
 ## Menu midi 
 ### Entrées
