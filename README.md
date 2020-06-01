@@ -25,16 +25,16 @@
 ## La Carte
 
 ### Entrées
-- Assiette de saumon fumé et toast
-- Crème de lentille
-- Velouté de légume bio
-- Oeuf poché à la crème de truffe
-- Camembert rôti au miel
+- Assiette de saumon fumé et toast **6€**
+- Crème de lentille **6€**
+- Velouté de légume bio **6€**
+- Oeuf poché à la crème de truffe **6€**
+- Camembert rôti au miel **6€**
 
 ### Plats
-- Tartare de boeuf au couteau, frites maison
-- Magret de canard sauce miroir, purée
-- Souris d'agneau confite 7h, purée
+- Tartare de boeuf au couteau, frites maison **6€**
+- Magret de canard sauce miroir, purée **6€**
+- Souris d'agneau confite 7h, purée **6€**
 
 ### Desserts
 - Brioche facon pain perdu **6€**
@@ -43,7 +43,8 @@
 
 -------------
 
-Suivez-nous sur [<img src="fb_icon_325x325.png"  width="64">](https://www.facebook.com/pg/lappart.vanves)
-Carte : [<img src="google-maps.png"   width="64">](https://goo.gl/maps/dQ14azTkhz1ixXj96)
+**Suivez-nous sur : [<img src="fb_icon_325x325.png"  width="64">](https://www.facebook.com/pg/lappart.vanves)**
+
+**Trouver nous sur : [<img src="google-maps.png"   width="64">](https://goo.gl/maps/dQ14azTkhz1ixXj96)**
 
 
