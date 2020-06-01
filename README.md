@@ -1,4 +1,4 @@
-![Appart Bistro](appart-visit-card.png "Appart bistro" =250x250) 
+<img src="appart-visit-card.png" alt="drawing" width="200"/>
 ------------
 
 ## Menu midi 
