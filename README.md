@@ -6,13 +6,17 @@
 - tomates mozza
 - harengs pomme à l'huile 
 
+
 - Suprème de poulet 
 - Boeuf Bourgignon
+
 
 - Salade de fruits
 - Ile flottante
 
+
 **Entrée  + plat ou  plat dessert : 15€**
+
 **Entrée  + plat + dessert: 18€**
 
 -------------
