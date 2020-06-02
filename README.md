@@ -3,7 +3,7 @@
 
 ## Menu midi 
 ### Entrées
-- tomates mozza
+- tomates mozza ••6€**
 - harengs pomme à l'huile 
 
 ### Plats
